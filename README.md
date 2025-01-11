@@ -1,2 +1,2 @@
 # Adding
-adding numer in python  by giving input
+adding numer in python  by giving
